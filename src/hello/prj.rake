@@ -1,0 +1,2 @@
+PRJ_TYPE='APP'
+
